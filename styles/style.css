@@ -203,8 +203,7 @@ a:active {
   top: 0;
   z-index: 100;
 }
-#menuToggle
-{
+#menuToggle {
   display: block;
   position: relative;
   top: 1.5rem;
@@ -215,8 +214,7 @@ a:active {
   user-select: none;
 }
 
-#menuToggle a
-{
+#menuToggle a {
   text-decoration: none;
   color: var(--darkgreen);
   
@@ -229,8 +227,7 @@ a:active {
 }
 
 
-#menuToggle input
-{
+#menuToggle input {
   display: block;
   width: 40px;
   height: 32px;
@@ -247,8 +244,7 @@ a:active {
 }
 
 
-#menuToggle span
-{
+#menuToggle span {
   display: block;
   width: 33px;
   height: 4px;
@@ -266,40 +262,34 @@ a:active {
               opacity 0.55s ease;
 }
 
-#menuToggle span:first-child
-{
+#menuToggle span:first-child {
   transform-origin: 0% 0%;
 }
 
-#menuToggle span:nth-last-child(2)
-{
+#menuToggle span:nth-last-child(2) {
   transform-origin: 0% 100%;
 }
 
 
-#menuToggle input:checked ~ span
-{
+#menuToggle input:checked ~ span {
   opacity: 1;
   transform: rotate(45deg) translate(-2px, -1px);
   background: var(--green);
 }
 
 
-#menuToggle input:checked ~ span:nth-last-child(3)
-{
+#menuToggle input:checked ~ span:nth-last-child(3) {
   opacity: 0;
   transform: rotate(0deg) scale(0.2, 0.2);
 }
 
 
-#menuToggle input:checked ~ span:nth-last-child(2)
-{
+#menuToggle input:checked ~ span:nth-last-child(2) {
   transform: rotate(-45deg) translate(0, -1px);
 }
 
 
-#menu
-  {
+#menu {
     position: absolute;
     width: 105vw;
     height: 120vh;
@@ -311,15 +301,14 @@ a:active {
     list-style-type: none;
     -webkit-font-smoothing: antialiased;
     /* to stop flickering of text in safari */
-    
+  
     transform-origin: 0% 0%;
     transform: translate(-100%, 0);
     
     transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
-  }
+}
 
-#menu li
-{
+#menu li {
   padding:1.5rem;
   font-size: 1.5rem;
 }
@@ -370,111 +359,6 @@ a:active {
   padding: 20px 35px;
 }
 
-/* nav {
-  position: relative;
-  width: 100%;
-  max-width: 150rem;
-}
-
-
-nav li {
-  display: block;
-  font-size: .9rem;
-  font-weight: 500;
-  text-align: center;
-  letter-spacing: 5px;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-
-.home-logo {
-  max-width: 3em;
-  position: absolute;
-  left:2rem;
-  top: 2rem;
-  z-index: 100;
-}
-
-header nav {
-  height: auto;
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  list-style: none;
-  overflow: hidden;
-  position: fixed;
-  gap: 15px;
-  padding: 1rem;
-  background-color: var(--white);
-  z-index: 100;
-  justify-content: space-around;
-} */
-
-/* header {
-  position: absolute;
-  width: 100%;
-  max-width: 150rem;
-}
-
-header nav ul {
-  height: auto;
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  list-style: none;
-  overflow: hidden;
-  position: fixed;
-  bottom: -1rem;
-  width: 100%;
-  gap: 15px;
-  padding: 1rem;
-  background-color: var(--white);
-  z-index: 100;
-  justify-content: space-around;
-  background-color: var(--lightergreen);
-}
-
-header nav li {
-  display: block;
-  font-size: .9rem;
-  font-weight: 500;
-  text-align: center;
-  letter-spacing: 5px;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-
-header nav p {
-  left: -20%;
-  line-height: 1rem;
-}
-header nav a {
-  text-decoration: none;
-  display: inline-block;     
-  position: relative;    
-  z-index: 1;     
-  padding: 2em;     
-  margin: -2em; 
-}
-
-@media (min-width: 877px){
-  header nav ul {
-    justify-content: flex-start;
-  }
-
-  nav li {
-  padding-left: 2rem;
-  }
-}
-header li p {
-  text-align: right;
-}
-
-
-
-header nav li a:hover{
-text-decoration: line-through;
-} */
 
 /* Main
 --------------------------------------------- */
