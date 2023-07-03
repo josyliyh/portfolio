@@ -10,10 +10,7 @@
             <div class="home-container">
                 <div class="intro ">
                     <h1>Howdy, I'm Josy!</h1>
-                    
-
-                    <svg width="720" height="120"><text x="5" y="100">Web Developer</text></svg>
-                    <h2 class="title-mobile">Web Developer</h2>
+                    <h2 class="title">Front-End Developer</h2>
                     <h2>Based in Vancouver, BC</h2>
                     <div class="icon-box home-icon">
                         <a target="_blank" href="https://www.linkedin.com/in/josyli">
@@ -33,16 +30,19 @@
                         </a> 
                     
                     </div>
-                
+                    <a href="works.php">
+                        <button class="green-button">
+                            <p>See my projects</p>
+                        </button>
+                    </a>
+                </div>
+                <div class="home-img">
+                    <img src="./media/girl-plant.png">
                 </div>
             
             </div>
 
-            <a href="works.html">
-                <button class="green-button work-button">
-                    <p>See my projects</p>
-                </button>
-            </a>
+
 
         </section>
     </main>
