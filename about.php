@@ -16,10 +16,16 @@
             src="media/portrait_ictcxu_c_scale,w_1120.jpg">
             <div class="about-text">
                 <p>
-                    Hey there! I'm Josy, a Vancouver-based front-end web developer with a passion for crafting interactive websites that truly engage users.  I believe that good design and dynamic interactions are essential for a successful website.
+                    Hey there! I'm Josy, a Vancouver-based front-end web developer with a passion for crafting interactive websites that truly engage users. I believe that good design and dynamic interactions are essential for a successful website.
                 </p>
                 <p>
-                    As a web developer, I am always excited to discover new technologies and push the limits of what is possible. My "To Learn List" is a never-ending adventure and I take great pleasure in exploring new technologies and expanding my skill set. Recently, I have been diving deep into React, working on fun projects that keep me on my toes and challenge me to think differently. I am excited by the ever-evolving nature of this field and I am constantly seeking new opportunities to learn and grow. Let's work together to bring your innovative ideas to life on the web!
+                As a web developer, I am always excited to discover new technologies and push the limits of what is possible. My "To Learn List" is a never-ending adventure and I take great pleasure in exploring new technologies and expanding my skill set. I am constantly seeking new opportunities to learn and grow. Let's work together to bring your innovative ideas to life on the web!
+                </p>
+                <p>
+                    Recently, I joined Elimin8hate as a volunteer web developer, an organization passionately committed to eliminating anti-Asian racism. It's a cause I deeply care about, and I'm thrilled to contribute my skills to make positive changes.
+                </p>
+                <p>
+                    When I'm not coding, I enjoy being a plant mom and a foodie. And when I need some adventure, you'll probably find me out on the water, enjoying a peaceful paddleboarding session.
                 </p>
             </div>
             <div class="contact-button icon-box">
@@ -74,14 +80,6 @@
                 </div>
             </section>
 
-            <section class="about-other">
-            <h3>Things I enjoy when I'm not coding...</h3>
-            <p class="tagline">
-                <span class="tagline-skill"><span class="tagline-skill_inner">Paddle Boarding <span role="img" aria-label="watersport">&#127940</span></span></span>
-                <span class="tagline-skill"><span class="tagline-skill_inner">Buying Houseplants <span role="img" aria-label="houseplant">&#127807</span></span></span>
-                <span class="tagline-skill"><span class="tagline-skill_inner">Eating Yummy Food <span role="img" aria-label="ramen">&#x1F35C</span></span></span>
-            </p>
-            </section>
             
         </section>
     </main>
