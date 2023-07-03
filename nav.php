@@ -21,6 +21,6 @@
         </nav>
 
             <a href="index.php">
-                <img src="/media/jl_logo.png" class="home-logo">
+                <img src="./media/jl_logo.png" class="home-logo">
             </a>
     </header>

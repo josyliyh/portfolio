@@ -12,20 +12,20 @@
                         <a href="https://josy.dev/react-movie-app/" target="_blank" rel="noopener noreferrer">
                             <img             sizes="(max-width: 1400px) 100vw, 1400px"
                             srcset="
-                            /media/movie/cloudmovie-banner_jythud_c_scale,w_200.png 200w,
-                            /media/movie/cloudmovie-banner_jythud_c_scale,w_411.png 411w,
-                            /media/movie/cloudmovie-banner_jythud_c_scale,w_564.png 564w,
-                            /media/movie/cloudmovie-banner_jythud_c_scale,w_705.png 705w,
-                            /media/movie/cloudmovie-banner_jythud_c_scale,w_808.png 808w,
-                            /media/movie/cloudmovie-banner_jythud_c_scale,w_902.png 902w,
-                            /media/movie/cloudmovie-banner_jythud_c_scale,w_1004.png 1004w,
-                            /media/movie/cloudmovie-banner_jythud_c_scale,w_1097.png 1097w,
-                            /media/movie/cloudmovie-banner_jythud_c_scale,w_1179.png 1179w,
-                            /media/movie/cloudmovie-banner_jythud_c_scale,w_1245.png 1245w,
-                            /media/movie/cloudmovie-banner_jythud_c_scale,w_1349.png 1349w,
-                            /media/movie/cloudmovie-banner_jythud_c_scale,w_1398.png 1398w,
-                            /media/movie/cloudmovie-banner_jythud_c_scale,w_1400.png 1400w"
-                            src="/media/movie/cloudmovie-banner_jythud_c_scale,w_1400.png" alt="" class="project-image">
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_200.png 200w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_411.png 411w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_564.png 564w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_705.png 705w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_808.png 808w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_902.png 902w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1004.png 1004w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1097.png 1097w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1179.png 1179w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1245.png 1245w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1349.png 1349w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1398.png 1398w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1400.png 1400w"
+                            src="./media/movie/cloudmovie-banner_jythud_c_scale,w_1400.png" alt="" class="project-image">
                         </a>
 
                         <div class="project-description">
@@ -51,12 +51,12 @@
                             <a href="https://villasbay.bcitwebdeveloper.ca/" target="_blank" rel="noopener noreferrer">
                                 <img sizes="(max-width: 1120px) 100vw, 1120px"
                                 srcset="
-                                /media/villasbay/villasbay_uu6imn_c_scale,w_360.png 360w,
-                                /media/villasbay/villasbay_uu6imn_c_scale,w_617.png 617w,
-                                /media/villasbay/villasbay_uu6imn_c_scale,w_805.png 805w,
-                                /media/villasbay/villasbay_uu6imn_c_scale,w_984.png 984w,
-                                /media/villasbay/villasbay_uu6imn_c_scale,w_1120.png 1120w"
-                                src="/media/villasbay/villasbay_uu6imn_c_scale,w_1120.png" alt="" class="project-image" loading="lazy">
+                                ./media/villasbay/villasbay_uu6imn_c_scale,w_360.png 360w,
+                                ./media/villasbay/villasbay_uu6imn_c_scale,w_617.png 617w,
+                                ./media/villasbay/villasbay_uu6imn_c_scale,w_805.png 805w,
+                                ./media/villasbay/villasbay_uu6imn_c_scale,w_984.png 984w,
+                                ./media/villasbay/villasbay_uu6imn_c_scale,w_1120.png 1120w"
+                                src="./media/villasbay/villasbay_uu6imn_c_scale,w_1120.png" alt="" class="project-image" loading="lazy">
                             </a>
 
                             <div class="project-description">
@@ -105,9 +105,9 @@
                         <article class="single-project reverse reveal">
                             <img sizes="(max-width: 901px) 100vw, 901px"
                             srcset="
-                            /media/login/login_yethfa_c_scale,w_360.png 360w,
-                            /media/login/login_yethfa_c_scale,w_901.png 901w"
-                            src="./media/login/login_yethfa_c_scale,w_901.png" alt="" class="project-image left-image" loading="lazy">
+                            ./media/login/login_yethfa_c_scale,w_360.png 360w,
+                            ./media/login/login_yethfa_c_scale,w_901.png 901w"
+                            src="../media/login/login_yethfa_c_scale,w_901.png" alt="" class="project-image left-image" loading="lazy">
                             <div class="project-description">
                                 <h2>Login Application <span role="img" aria-label="check mark">&#9989</span></h2>
                                     <div class="project-skill-container">
