@@ -20,5 +20,100 @@
 
         </nav>
 
+        <nav role="navigation" class="mobile-nav">
 
-    </header>
+        <div id="menuToggle">
+
+            <input type="checkbox"></input>
+
+            <span></span>
+            <span></span>
+            <span></span>
+            
+     
+            <ul id="menu">
+            <li>
+                                <a href="index.php">Home</a>
+                            </li>
+                            <li>
+                                <a href="about.php">About</a>
+                            </li>
+                            <li>
+                                <a href="works.php">Works</a>
+                            </li>
+            
+                            <li>
+                                    <a target="_blank" href="https://www.linkedin.com/in/josyli">
+                                        <div class="box">
+                                            <i class="fab fa-linkedin-in"></i>
+                                        </div>
+                                    </a>
+                            </li>
+                            <li>
+                                    <a href="mailto:josyliyh@gmail.com">
+                                        <div class="box">
+                                            <i class="far fa-envelope"></i>
+                                        </div>  
+                                    </a>
+                            </li>
+                            <li>
+                                    <a target="_blank" href="https://github.com/josyliyh">
+                                        <div class="box">
+                                            <i class="fab fa-github"></i>
+                                        </div> 
+                                    </a> 
+                            </li>    
+            </ul>
+        </div>
+        </nav>
+    </header>    
+
+    <!-- <header>
+        <nav class="mobile-nav">
+
+            <div id="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+            </div>
+
+            <div id="menu-mobile">
+            <div id="bg-menu-mobile">
+            </div>
+            
+            <ul>
+            <li>
+                                <a href="index.php">Home</a>
+                            </li>
+                            <li>
+                                <a href="about.php">About</a>
+                            </li>
+                            <li>
+                                <a href="works.php">Works</a>
+                            </li>
+            
+                            <li>
+                                    <a target="_blank" href="https://www.linkedin.com/in/josyli">
+                                        <div class="box">
+                                            <i class="fab fa-linkedin-in"></i>
+                                        </div>
+                                    </a>
+                            </li>
+                            <li>
+                                    <a href="mailto:josyliyh@gmail.com">
+                                        <div class="box">
+                                            <i class="far fa-envelope"></i>
+                                        </div>  
+                                    </a>
+                            </li>
+                            <li>
+                                    <a target="_blank" href="https://github.com/josyliyh">
+                                        <div class="box">
+                                            <i class="fab fa-github"></i>
+                                        </div> 
+                                    </a> 
+                            </li>    
+            </ul>
+           
+</nav>
+</header> -->
