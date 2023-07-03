@@ -8,12 +8,12 @@
         <img
             sizes="(max-width: 1400px) 100vw, 1400px"
             srcset="
-            /media/dog/wholetthedogsout-banner_wms4il_c_scale,w_200.png 200w,
-            /media/dog/wholetthedogsout-banner_wms4il_c_scale,w_636.png 636w,
-            /media/dog/wholetthedogsout-banner_wms4il_c_scale,w_985.png 985w,
-            /media/dog/wholetthedogsout-banner_wms4il_c_scale,w_1223.png 1223w,
-            /media/dog/wholetthedogsout-banner_wms4il_c_scale,w_1400.png 1400w"
-            src="/media/dog/wholetthedogsout-banner_wms4il_c_scale,w_1400.png"
+            ./media/dog/wholetthedogsout-banner_wms4il_c_scale,w_200.png 200w,
+            ./media/dog/wholetthedogsout-banner_wms4il_c_scale,w_636.png 636w,
+            ./media/dog/wholetthedogsout-banner_wms4il_c_scale,w_985.png 985w,
+            ./media/dog/wholetthedogsout-banner_wms4il_c_scale,w_1223.png 1223w,
+            ./media/dog/wholetthedogsout-banner_wms4il_c_scale,w_1400.png 1400w"
+            src="./media/dog/wholetthedogsout-banner_wms4il_c_scale,w_1400.png"
             alt="">
         <h1>Who Let The Dogs Out</h1>
     </header>
@@ -55,7 +55,7 @@
                         <p>The game utilizes the math.random method and clone method to randomly select and duplicate a target dog breed.</p>
                         
                         <video  width="300px" autoplay muted loop>
-                            <source src="/media/dog/screenshot_rand.mp4" type="video/mp4">
+                            <source src="./media/dog/screenshot_rand.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
 
@@ -73,7 +73,7 @@
                         <h3>Count-down timer</h3>
                         <p>Once they click start, the timer will countdown 90 seconds.</p>
                         <p>Players can pause and resume at any time.</p>
-                        <img src="./media/dog/screenshot_timer.png" loading="lazy" alt="">
+                        <img src="../media/dog/screenshot_timer.png" loading="lazy" alt="">
                         <p>The code snippet below shows how I display the timer with minute and second</p>
                         <p class="codepen" data-height="300" data-default-tab="js" data-slug-hash="rNKjxKP" data-editable="true" data-user="Josyyhli" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
                             <span>See the Pen <a href="https://codepen.io/Josyyhli/pen/rNKjxKP">
@@ -90,7 +90,7 @@
                             Players will get one point if they choose the same dog breed as the target dog and will lose one point if they choose the wrong dog breed.
                        </p>
                     <video  width="600px" autoplay muted loop>
-                        <source src="/media/dog/screenshot_score.mp4" type="video/mp4">
+                        <source src="./media/dog/screenshot_score.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
 

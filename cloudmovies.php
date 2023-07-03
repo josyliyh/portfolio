@@ -9,20 +9,20 @@
         <img
             sizes="(max-width: 1400px) 100vw, 1400px"
             srcset="
-            /media/movie/cloudmovie-banner_jythud_c_scale,w_200.png 200w,
-            /media/movie/cloudmovie-banner_jythud_c_scale,w_411.png 411w,
-            /media/movie/cloudmovie-banner_jythud_c_scale,w_564.png 564w,
-            /media/movie/cloudmovie-banner_jythud_c_scale,w_705.png 705w,
-            /media/movie/cloudmovie-banner_jythud_c_scale,w_808.png 808w,
-            /media/movie/cloudmovie-banner_jythud_c_scale,w_902.png 902w,
-            /media/movie/cloudmovie-banner_jythud_c_scale,w_1004.png 1004w,
-            /media/movie/cloudmovie-banner_jythud_c_scale,w_1097.png 1097w,
-            /media/movie/cloudmovie-banner_jythud_c_scale,w_1179.png 1179w,
-            /media/movie/cloudmovie-banner_jythud_c_scale,w_1245.png 1245w,
-            /media/movie/cloudmovie-banner_jythud_c_scale,w_1349.png 1349w,
-            /media/movie/cloudmovie-banner_jythud_c_scale,w_1398.png 1398w,
-            /media/movie/cloudmovie-banner_jythud_c_scale,w_1400.png 1400w"
-            src="/media/movie/cloudmovie-banner_jythud_c_scale,w_1400.png"
+            ./media/movie/cloudmovie-banner_jythud_c_scale,w_200.png 200w,
+            ./media/movie/cloudmovie-banner_jythud_c_scale,w_411.png 411w,
+            ./media/movie/cloudmovie-banner_jythud_c_scale,w_564.png 564w,
+            ./media/movie/cloudmovie-banner_jythud_c_scale,w_705.png 705w,
+            ./media/movie/cloudmovie-banner_jythud_c_scale,w_808.png 808w,
+            ./media/movie/cloudmovie-banner_jythud_c_scale,w_902.png 902w,
+            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1004.png 1004w,
+            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1097.png 1097w,
+            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1179.png 1179w,
+            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1245.png 1245w,
+            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1349.png 1349w,
+            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1398.png 1398w,
+            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1400.png 1400w"
+            src="./media/movie/cloudmovie-banner_jythud_c_scale,w_1400.png"
             alt="">
         <h1>CloudMovie</h1>
     </header>
@@ -67,7 +67,7 @@
                         <p>The application features a dynamic search bar that allows users to easily find movies by typing in any string. As the user types, the application will suggest results immediately, providing a convenient and efficient way to search for movies. Users can browse through the suggested results and select the movie they are looking for, without having to manually scroll through a long list of movies.</p>
                         
                         <video  autoplay muted loop>
-                            <source src="/media/movie/screenshot_search.mp4" type="video/mp4">
+                            <source src="./media/movie/screenshot_search.mp4" type="video/mp4">
                             Your browser does not support the video tag.
                         </video>
                         
@@ -84,11 +84,11 @@
                         <p>The application allows users to add and remove movies from their favorite list. Users can simply click on a button on the movie detail page to add or remove a movie from their favorite list. The favorite movies are saved in local storage, allowing users to access their favorite movies even after they have closed the application or their browser. A separate "Favorites" page is also provided where users can view all the movies they have marked as favorites. This feature allows users to easily access and keep track of their favorite movies, making it more convenient for them to view them again in the future.</p>
                             <div class="feature-container">
                                 <video width="300px" autoplay muted loop>
-                                    <source src="/media/movie/screenshot_favourite.mp4" type="video/mp4">
+                                    <source src="./media/movie/screenshot_favourite.mp4" type="video/mp4">
                                     Your browser does not support the video tag.
                                 </video>
                                 <video  width="300px" autoplay muted loop>
-                                    <source src="/media/movie/screenshot_unfavourite.mp4" type="video/mp4">
+                                    <source src="./media/movie/screenshot_unfavourite.mp4" type="video/mp4">
                                     Your browser does not support the video tag.
                                 </video>
                             </div>
@@ -104,7 +104,7 @@
                         <h3>Placeholder Image</h3>
                         <p>In cases where there is no available movie poster or cast member photo, the application will display a placeholder image to fill that space. This ensures that the layout of the application is not broken and the user experience is not affected. Placeholder images are commonly used in web development as a fallback option for missing or unavailable images. It also helps to keep the website look consistent. Placeholder images are a simple but effective way to handle missing images and maintain the aesthetic of the application.</p>
                         
-                        <img class="screenshot" src="/media/movie/screenshot_placeholder.png">
+                        <img class="screenshot" src="./media/movie/screenshot_placeholder.png">
 
                         <p class="codepen" data-height="300" data-default-tab="js" data-slug-hash="PoaGdZm" data-editable="true" data-user="Josyyhli" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
                             <span>See the Pen <a href="https://codepen.io/Josyyhli/pen/PoaGdZm">

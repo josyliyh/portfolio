@@ -6,7 +6,7 @@
     <?php include 'nav.php'?>
     <header class="page-header">
         <video autoplay muted loop controls>
-            <source src="/media/database/php-project.mov" type="video/mp4">
+            <source src="./media/database/php-project.mov" type="video/mp4">
             Your browser does not support the video tag.
         </video>
         <h1>Database Administration Interface</h1>

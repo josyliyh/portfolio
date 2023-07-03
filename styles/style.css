@@ -194,10 +194,89 @@ a:active {
 
 /* Header
 --------------------------------------------- */
-/* header {
+.full-nav {
+  display: none;
+}
+
+@media (min-width: 720px){
+   .full-nav {
+      display: block;
+      height: 155px;
+      position: absolute;
+      width: 100%;
+      max-width: 90%;
+      padding:1rem;
+    }
+}
+
+.home-logo {
+  align-items: center;
+  display: flex;
+  left: 2rem;
+  position: absolute;
+  max-width: 3em;
+  margin-left: 2rem;
+}
+
+nav ul {
+  display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 2rem;
+
+}
+
+nav li {
+  padding: 20px 35px;
+}
+
+/* nav {
   position: relative;
+  width: 100%;
   max-width: 150rem;
+}
+
+
+nav li {
+  display: block;
+  font-size: .9rem;
+  font-weight: 500;
+  text-align: center;
+  letter-spacing: 5px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.home-logo {
+  max-width: 3em;
+  position: absolute;
+  left:2rem;
+  top: 2rem;
+  z-index: 100;
+}
+
+header nav {
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  list-style: none;
+  overflow: hidden;
+  position: fixed;
+  gap: 15px;
+  padding: 1rem;
+  background-color: var(--white);
+  z-index: 100;
+  justify-content: space-around;
 } */
+
+/* header {
+  position: absolute;
+  width: 100%;
+  max-width: 150rem;
+}
 
 header nav ul {
   height: auto;
@@ -226,9 +305,6 @@ header nav li {
   text-decoration: none;
   text-transform: uppercase;
 }
-.nav-right-li {
-  display:none;
-}
 
 header nav p {
   left: -20%;
@@ -243,23 +319,9 @@ header nav a {
   margin: -2em; 
 }
 
-header .line {
-  display: none;
-}
 @media (min-width: 877px){
   header nav ul {
     justify-content: flex-start;
-  }
-  header .line {
-  display: block;
-  width: 300px;
-  height: 1px;
-  margin-top: 7px;
-  margin-left: 2em;
-  background-color: var(--darkgreen);
-  }
-  .nav-right-li {
-    display: block;
   }
 
   nav li {
@@ -269,22 +331,12 @@ header .line {
 header li p {
   text-align: right;
 }
-.nav-right {
-  display: none;
-}
-@media (min-width: 472px){
-.nav-right {
-  display: block;
-  position: fixed;
-  right: 2rem;
-  bottom: 0.2rem;
-}
-}
+
 
 
 header nav li a:hover{
 text-decoration: line-through;
-}
+} */
 
 /* Main
 --------------------------------------------- */
@@ -331,7 +383,6 @@ text {
 }
 
 
-
 #home svg {
 display: none;
 }
@@ -371,14 +422,6 @@ display: none;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-
-}
-.home-logo {
-  max-width: 3em;
-  position: absolute;
-  right:2rem;
-  top: 2rem;
-  z-index: 100;
 
 }
 

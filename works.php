@@ -6,7 +6,6 @@
     <?php include 'nav.php'?>
     <main> 
         <section id="works" class="section-height">
-            <h1>Featured Projects</h1>
                 <div class="project-wrapper">
                     <article class="single-project">
                         <a href="https://josy.dev/react-movie-app/" target="_blank" rel="noopener noreferrer">
@@ -39,7 +38,7 @@
                             <p class="project-text">A dynamic and responsive movie database web application that calls data from the TMDB API.</p>
                             
                             
-                            <a href="cloudmovies.html">
+                            <a href="cloudmovies.php">
                                 <button class="green-button">
                                     Learn More<span class="screen-reader-text"> about Cloud Movies</span>
                                 </button>
@@ -71,7 +70,7 @@
                                 <p class="project-text">A vacation rental website built with underscores custom WordPress theme.</p>
                                 
                                 
-                                <a href="the-villas-bay.html">
+                                <a href="the-villas-bay.php">
                                     <button class="green-button">
                                         Learn More<span class="screen-reader-text"> about The Villas Bay</span>
                                     </button>
@@ -94,7 +93,7 @@
                                         An application with secure database administration functionality.
                                     </p>
                                     
-                                    <a href="database.html">
+                                    <a href="database.php">
                                         <button class="green-button">
                                             Learn More<span class="screen-reader-text"> about Database Administration Interface</span>
                                         </button>
@@ -121,7 +120,7 @@
                                     A login application integrated with a MySQL database.
                                 </p>
                                 
-                                <a href="login.html">
+                                <a href="login.php">
                                     <button class="green-button">
                                         Learn More<span class="screen-reader-text"> about Login application</span>
                                     </button>
@@ -147,7 +146,7 @@
                                         A browser-based Dog matching game using object-oriented programming principles.
                                     </p>
                                     
-                                    <a href="who-let-the-dogs-out.html">
+                                    <a href="who-let-the-dogs-out.php">
                                         <button class="green-button">
                                             Learn More<span class="screen-reader-text"> about Who Let The Dogs Out</span>
                                         </button>

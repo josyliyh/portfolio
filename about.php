@@ -6,7 +6,6 @@
     <?php include 'nav.php'?>
     <main>
         <section id="about" class="section-height">
-            <h1>About Me</h1>
             <img class="about-img" sizes="(max-width: 1120px) 100vw, 1120px"
             srcset="
             ./media/portrait_ictcxu_c_scale,w_190.jpg 190w,
@@ -24,7 +23,7 @@
                 </p>
             </div>
             <div class="contact-button icon-box">
-                <a target="_blank" href="https://www.linkedin.com/in/josy-li-415595129/">
+                <a target="_blank" href="https://www.linkedin.com/in/josyli">
                     <div class="box">
                         <i class="fab fa-linkedin-in"></i>
                     </div>

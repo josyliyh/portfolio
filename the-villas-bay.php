@@ -7,12 +7,12 @@
     <header class="page-header">
         <img sizes="(max-width: 1120px) 100vw, 1120px"
         srcset="
-        /media/villasbay/villasbay_uu6imn_c_scale,w_360.png 360w,
-        /media/villasbay/villasbay_uu6imn_c_scale,w_617.png 617w,
-        /media/villasbay/villasbay_uu6imn_c_scale,w_805.png 805w,
-        /media/villasbay/villasbay_uu6imn_c_scale,w_984.png 984w,
-        /media/villasbay/villasbay_uu6imn_c_scale,w_1120.png 1120w"
-        src="/media/villasbay/villasbay_uu6imn_c_scale,w_1120.png"
+        ./media/villasbay/villasbay_uu6imn_c_scale,w_360.png 360w,
+        ./media/villasbay/villasbay_uu6imn_c_scale,w_617.png 617w,
+        ./media/villasbay/villasbay_uu6imn_c_scale,w_805.png 805w,
+        ./media/villasbay/villasbay_uu6imn_c_scale,w_984.png 984w,
+        ./media/villasbay/villasbay_uu6imn_c_scale,w_1120.png 1120w"
+        src="./media/villasbay/villasbay_uu6imn_c_scale,w_1120.png"
             alt="">
         <h1>The Villas Bay</h1>
     </header>
@@ -73,7 +73,7 @@
                         <p>
                             We utilized the Advanced Custom Fields (ACF) plugin to make the process of adding and editing content user-friendly for the client. This plugin allowed us to create custom fields for different types of content, making it easy for the client to input data and maintain the desired format. This approach ensured that the client had the flexibility to update and manage their website content with ease, while also maintaining the desired layout and format. By using ACF, we were able to create a user-friendly interface that allowed the client to have full control over their website's content.
                         </p>
-                        <img src="/media/villasbay/screenshot-acf.png">
+                        <img src="./media/villasbay/screenshot-acf.png">
 
                     </article>
 

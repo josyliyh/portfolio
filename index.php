@@ -16,7 +16,7 @@
                     <h2 class="title-mobile">Web Developer</h2>
                     <h2>Based in Vancouver, BC</h2>
                     <div class="icon-box home-icon">
-                        <a target="_blank" href="https://www.linkedin.com/in/josy-li-415595129/">
+                        <a target="_blank" href="https://www.linkedin.com/in/josyli">
                             <div class="box">
                                 <i class="fab fa-linkedin-in"></i>
                             </div>
