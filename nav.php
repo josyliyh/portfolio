@@ -21,7 +21,6 @@
         </nav>
 
         <nav role="navigation" class="mobile-nav">
-
         <div id="menuToggle">
 
             <input type="checkbox"></input>
@@ -65,7 +64,12 @@
                             </li>    
             </ul>
         </div>
+
+        <a href="index.php">
+                <img src="./media/jl_logo.png" class="mobile-logo">
+        </a>
         </nav>
+ 
     </header>    
 
     <!-- <header>

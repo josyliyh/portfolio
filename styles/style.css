@@ -344,6 +344,14 @@ a:active {
   margin-left: 2rem;
 }
 
+.mobile-logo {
+  align-items: center;
+  position: absolute;
+  max-width: 3em;
+  margin-left: 2rem;
+  right:-32rem;
+}
+
 .full-nav ul {
   display: flex;
     list-style: none;
