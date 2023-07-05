@@ -7,11 +7,10 @@
     <main>
   
         <section id="home" class="section-height">
-            <div class="home-container">
-                <div class="intro ">
-                    <h1>Howdy, I'm Josy!</h1>
-                    <h2 class="title">Front-End Developer</h2>
-                    <h2>Based in Vancouver, BC</h2>
+            <!-- <div class="home-container"> -->
+                    <h2 class="intro-greeting">Howdy, I'm Josy!</h2>
+                    <h1 class="title">Front-End Developer</h1>
+                    <h2 class="intro-location">Based in Vancouver, BC</h2>
                     <div class="icon-box home-icon">
                         <a target="_blank" href="https://www.linkedin.com/in/josyli">
                             <div class="box">
@@ -30,19 +29,13 @@
                         </a> 
                     
                     </div>
-                    <a href="works.php">
-                        <button class="green-button">
-                            <p>See my projects</p>
-                        </button>
-                    </a>
-                </div>
+                    <a href="works.php" class="project-button">See my projects</a>
+            
                 <div class="home-img">
                     <img src="./media/girl-plant.png">
                 </div>
             
-            </div>
-
-
+            <!-- <div> -->
 
         </section>
     </main>
