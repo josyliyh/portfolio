@@ -7,7 +7,7 @@
     <main>
   
         <section id="home" class="section-height">
-            <!-- <div class="home-container"> -->
+            <div class="home-container">
                     <h2 class="intro-greeting">Howdy, I'm Josy!</h2>
                     <h1 class="title">Front-End Developer</h1>
                     <h2 class="intro-location">Based in Vancouver, BC</h2>
@@ -29,13 +29,13 @@
                         </a> 
                     
                     </div>
-                    <a href="works.php" class="project-button">See my projects</a>
+                    <!-- <a href="works.php" class="project-button">See my projects</a> -->
             
                 <div class="home-img">
                     <img src="./media/girl-plant.png">
                 </div>
             
-            <!-- <div> -->
+            <div>
 
         </section>
     </main>
