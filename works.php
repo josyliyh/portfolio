@@ -7,7 +7,7 @@
     <main> 
         <section id="works" class="section-height">
                 <div class="project-wrapper">
-                <article class="single-project">
+                <article class="single-project reverse">
                         <a href="https://josy.dev/react-movie-app/" target="_blank" rel="noopener noreferrer">
                             <img             sizes="(max-width: 1400px) 100vw, 1400px"
                             srcset="
@@ -28,7 +28,7 @@
                         </a>
 
                         <div class="project-description">
-                            <h2>Cloud Movies <span role="img" aria-label="movie">&#127909</span></h2>
+                            <h2>Cloud Movies</h2>
                                 <div class="project-skill-container">
                                     <p class="project-skill">React</p>
                                     <p class="project-skill">SASS</p>
@@ -67,7 +67,7 @@
                         </a>
 
                         <div class="project-description">
-                            <h2>Cloud Movies <span role="img" aria-label="movie">&#127909</span></h2>
+                            <h2>Cloud Movies</h2>
                                 <div class="project-skill-container">
                                     <p class="project-skill">React</p>
                                     <p class="project-skill">SASS</p>
@@ -98,7 +98,7 @@
                             </a>
 
                             <div class="project-description">
-                                <h2>The Villas Bay <span role="img" aria-label="beach">&#127958</span></h2>
+                                <h2>The Villas Bay</h2>
                                     <div class="project-skill-container">
                                         <p class="project-skill">PHP</p>
                                         <p class="project-skill">WordPress</p>
@@ -120,7 +120,7 @@
                         <article class="single-project reveal">
                                 <img src="./media/database/database.png" alt="" class="project-image left-image" loading="lazy"> 
                                 <div class="project-description">
-                                    <h2>Database Administration Interface <span role="img" aria-label="numbers">&#128290</span></h2>
+                                    <h2>Database Administration Interface</h2>
                                         <div class="project-skill-container">
                                             <p class="project-skill">MySQL</p>
                                             <p class="project-skill">PHP</p>
@@ -147,7 +147,7 @@
                             ./media/login/login_yethfa_c_scale,w_901.png 901w"
                             src="../media/login/login_yethfa_c_scale,w_901.png" alt="" class="project-image left-image" loading="lazy">
                             <div class="project-description">
-                                <h2>Login Application <span role="img" aria-label="check mark">&#9989</span></h2>
+                                <h2>Login Application </h2>
                                     <div class="project-skill-container">
                                         <p class="project-skill">MySQL</p>
                                         <p class="project-skill">PHP</p>
@@ -173,7 +173,7 @@
 
                             </a>
                                 <div class="project-description">
-                                    <h2>Who Let the Dogs Out <span role="img" aria-label="dog">&#128054</span></h2>
+                                    <h2>Who Let the Dogs Out</h2>
                                         <div class="project-skill-container">
                                             <p class="project-skill">jQuery</p>
                                             <p class="project-skill">HTML</p>
