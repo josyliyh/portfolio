@@ -7,6 +7,45 @@
     <main> 
         <section id="works" class="section-height">
                 <div class="project-wrapper">
+                <article class="single-project">
+                        <a href="https://josy.dev/react-movie-app/" target="_blank" rel="noopener noreferrer">
+                            <img             sizes="(max-width: 1400px) 100vw, 1400px"
+                            srcset="
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_200.png 200w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_411.png 411w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_564.png 564w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_705.png 705w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_808.png 808w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_902.png 902w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1004.png 1004w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1097.png 1097w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1179.png 1179w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1245.png 1245w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1349.png 1349w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1398.png 1398w,
+                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1400.png 1400w"
+                            src="./media/movie/cloudmovie-banner_jythud_c_scale,w_1400.png" alt="" class="project-image">
+                        </a>
+
+                        <div class="project-description">
+                            <h2>Cloud Movies <span role="img" aria-label="movie">&#127909</span></h2>
+                                <div class="project-skill-container">
+                                    <p class="project-skill">React</p>
+                                    <p class="project-skill">SASS</p>
+                                    <p class="project-skill">REST API</p>
+                                    <p class="project-skill">Adobe XD</p>
+                                </div>
+                            <p class="project-text">A dynamic and responsive movie database web application that calls data from the TMDB API.</p>
+                            
+                            
+                            <a href="cloudmovies.php">
+                                <button class="green-button">
+                                    Learn More<span class="screen-reader-text"> about Cloud Movies</span>
+                                </button>
+                            </a>
+                        </div>
+                        </article>
+
                     <article class="single-project">
                         <a href="https://josy.dev/react-movie-app/" target="_blank" rel="noopener noreferrer">
                             <img             sizes="(max-width: 1400px) 100vw, 1400px"
