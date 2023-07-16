@@ -28,12 +28,12 @@
                         </a>
 
                         <div class="project-description">
-                            <h2>Cloud Movies</h2>
+                            <h2>Boldly Built</h2>
                                 <div class="project-skill-container">
-                                    <p class="project-skill">React</p>
+                                    <p class="project-skill">WordPress</p>
                                     <p class="project-skill">SASS</p>
-                                    <p class="project-skill">REST API</p>
-                                    <p class="project-skill">Adobe XD</p>
+                                    <p class="project-skill">JavaScript</p>
+                                    <p class="project-skill">Figma</p>
                                 </div>
                             <p class="project-text">A dynamic and responsive movie database web application that calls data from the TMDB API.</p>
                             

@@ -20,7 +20,7 @@
 
     <main>
         
-        <section class="section-height  reveal" id="project-main">
+        <section class="section-height reveal active" id="project-main">
         
             <div class="titlecontainer">
                 <h2 class="project-title">Overview</h2>
@@ -114,7 +114,7 @@
                         I am thrilled to have had the opportunity to create a game similar to one I enjoyed as a child. The entire process, from planning and development to debugging and styling, was an enjoyable and enlightening experience.
                     </p>
                     <p>
-                        I relished the challenge of solving problems with the resources available online and felt a great sense of accomplishment upon completion. As this was one of my first projects as a software developer, I am proud of the final product and am amazed by the capabilities of JavaScript.
+                        As this was one of my first projects as a developer, I am proud of the final result and am amazed by the capabilities of JavaScript.
                     </p>
                 </article>
         </section>
