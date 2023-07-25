@@ -312,12 +312,17 @@ a:active {
     width: 100%;
     top: 0rem;
     padding-top: 1rem;
-    max-width: 180rem;
-    width: 90rem;
+    max-width: 86rem;
     background-color: var(--white);
     z-index: 1000;
     }
 }
+@media (min-width: 1397px){
+  .full-nav {
+    /* width: 90rem; */
+  }
+}
+
 
 .home-logo {
   align-items: center;
