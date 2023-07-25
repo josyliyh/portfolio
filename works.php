@@ -37,7 +37,7 @@
                             <p class="project-text">A web design agency website that was built with custom WordPress theme.</p>
                             
                             
-                            <a href="https://boldlybuilt.dev/">
+                            <a href="https://boldlybuilt.dev/" target="_blank" rel="noopener noreferrer">
                                 <button class="green-button">
                                     Live site<span class="screen-reader-text">Live site of Boldly Built</span>
                                 </button>
