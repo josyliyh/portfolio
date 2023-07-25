@@ -313,6 +313,7 @@ a:active {
     top: 0rem;
     padding-top: 1rem;
     max-width: 180rem;
+    width: 90rem;
     background-color: var(--white);
     z-index: 1000;
     }
@@ -424,6 +425,8 @@ body {
   grid-template-rows: repeat(5, 1fr);
   grid-column-gap: 0px;
   grid-row-gap: 0px;
+  position: absolute;
+  top: 12%;
 }
 
 
@@ -434,6 +437,7 @@ font-size: 4.9rem; }
 .home-icon{ grid-area: 4 / 1 / 5 / 3; }
 .home-img { grid-area: 1 / 4 / 6 / 6; 
             padding-top: 1.5rem;
+            padding-right: 7rem;
             width: 100%;
             min-width: 30rem;
 }
