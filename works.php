@@ -8,23 +8,22 @@
         <section id="works" class="section-height">
                 <div class="project-wrapper">
                 <article class="single-project reverse">
-                        <a href="https://josy.dev/react-movie-app/" target="_blank" rel="noopener noreferrer">
-                            <img             sizes="(max-width: 1400px) 100vw, 1400px"
+                        <a href="https://boldlybuilt.dev/" target="_blank" rel="noopener noreferrer">
+                        <img
+                            sizes="(max-width: 1400px) 100vw, 1400px"
                             srcset="
-                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_200.png 200w,
-                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_411.png 411w,
-                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_564.png 564w,
-                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_705.png 705w,
-                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_808.png 808w,
-                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_902.png 902w,
-                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1004.png 1004w,
-                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1097.png 1097w,
-                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1179.png 1179w,
-                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1245.png 1245w,
-                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1349.png 1349w,
-                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1398.png 1398w,
-                            ./media/movie/cloudmovie-banner_jythud_c_scale,w_1400.png 1400w"
-                            src="./media/movie/cloudmovie-banner_jythud_c_scale,w_1400.png" alt="" class="project-image">
+                            ./media/boldlybuilt/boldly-built_in7iwv_c_scale,w_200.png 200w,
+                            ./media/boldlybuilt/boldly-built_in7iwv_c_scale,w_449.png 449w,
+                            ./media/boldlybuilt/boldly-built_in7iwv_c_scale,w_629.png 629w,
+                            ./media/boldlybuilt/boldly-built_in7iwv_c_scale,w_788.png 788w,
+                            ./media/boldlybuilt/boldly-built_in7iwv_c_scale,w_918.png 918w,
+                            ./media/boldlybuilt/boldly-built_in7iwv_c_scale,w_1034.png 1034w,
+                            ./media/boldlybuilt/boldly-built_in7iwv_c_scale,w_1127.png 1127w,
+                            ./media/boldlybuilt/boldly-built_in7iwv_c_scale,w_1238.png 1238w,
+                            ./media/boldlybuilt/boldly-built_in7iwv_c_scale,w_1266.png 1266w,
+                            ./media/boldlybuilt/boldly-built_in7iwv_c_scale,w_1400.png 1400w"
+                            src="./media/boldlybuilt/boldly-built_in7iwv_c_scale,w_1400.png"
+                            alt="" class="project-image">
                         </a>
 
                         <div class="project-description">
@@ -35,12 +34,12 @@
                                     <p class="project-skill">JavaScript</p>
                                     <p class="project-skill">Figma</p>
                                 </div>
-                            <p class="project-text">A dynamic and responsive movie database web application that calls data from the TMDB API.</p>
+                            <p class="project-text">A web design agency website that was built with custom WordPress theme.</p>
                             
                             
-                            <a href="cloudmovies.php">
+                            <a href="https://boldlybuilt.dev/" target="_blank" rel="noopener noreferrer">
                                 <button class="green-button">
-                                    Learn More<span class="screen-reader-text"> about Cloud Movies</span>
+                                    Live site<span class="screen-reader-text">Live site of Boldly Built</span>
                                 </button>
                             </a>
                         </div>
@@ -106,7 +105,7 @@
                                         <p class="project-skill">JavaScript</p>
                                         <p class="project-skill">Adobe XD</p>
                                     </div>
-                                <p class="project-text">A vacation rental website built with underscores custom WordPress theme.</p>
+                                <p class="project-text">A vacation rental website that was built with custom WordPress theme.</p>
                                 
                                 
                                 <a href="the-villas-bay.php">
