@@ -407,7 +407,7 @@ body {
   .home-container h1 {
     text-align: center;
     align-self: center;
-    font-size: 2.5em;
+    font-size: 3em;
   }
 
   .home-container h2 {
@@ -415,6 +415,12 @@ body {
     align-self: center;
     font-size: 2em;
     font-family: 'Montserrat';
+  }
+
+  .icon-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .intro-greeting { grid-area: 1 / 1 / 2 / 4; }
@@ -465,11 +471,7 @@ font-size: 4.9rem; }
   }
 } */
 
-.icon-box{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+
  .home-icon {
   margin-top: 2rem;
 }
