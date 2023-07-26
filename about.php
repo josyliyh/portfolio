@@ -22,7 +22,7 @@
                 As a web developer, I am always excited to discover new technologies and push the limits of what is possible. My "To Learn List" is a never-ending adventure and I take great pleasure in exploring new technologies and expanding my skill set. I am constantly seeking new opportunities to learn and grow. Let's work together to bring your innovative ideas to life on the web!
                 </p>
                 <p>
-                    Recently, I joined Elimin8hate as a volunteer web developer, an organization passionately committed to eliminating anti-Asian racism. It's a cause I deeply care about, and I'm thrilled to contribute my skills to make positive changes.
+                    Recently, I joined <a target="_blank" href="https://www.elimin8hate.org/" style="text-decoration: underline;">Elimin8hate</a> as a volunteer web developer, an organization passionately committed to eliminating anti-Asian racism. It's a cause I deeply care about, and I'm thrilled to contribute my skills to make positive changes.
                 </p>
                 <p>
                     When I'm not coding, I enjoy being a plant mom and a foodie. And when I need some adventure, you'll probably find me out on the water, enjoying a peaceful paddleboarding session.
