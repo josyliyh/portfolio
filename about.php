@@ -25,7 +25,7 @@
                     Recently, I joined <a target="_blank" href="https://www.elimin8hate.org/" style="text-decoration: underline;">Elimin8hate</a> as a volunteer web developer, an organization passionately committed to eliminating anti-Asian racism. It's a cause I deeply care about, and I'm thrilled to contribute my skills to make positive changes.
                 </p>
                 <p>
-                    When I'm not coding, I enjoy being a plant mom and a foodie. And when I need some adventure, you'll probably find me out on the water, enjoying a peaceful paddleboarding session.
+                    When I'm not coding, I enjoy being a plant mom and a  <a target="_blank" href="https://www.instagram.com/josy.food.baby/" style="text-decoration: underline;">foodie</a>. And when I need some adventure, you'll probably find me out on the water, enjoying a peaceful paddleboarding session.
                 </p>
             </div>
             <div class="contact-button icon-box">
